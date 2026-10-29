@@ -1,0 +1,20 @@
+{
+  "source_id": "wearable_api",
+  "evaluated_at": "2026-10-27T18:55:37.693968",
+  "sample_count": 60,
+  "subject_count": 1,
+  "measurements_breakdown": {
+    "heart_rate": 30,
+    "spo2": 30
+  },
+  "missing_values_count": 120,
+  "missing_rate_pct": 18.18,
+  "numerical_summary": {
+    "value_mean": 85.5,
+    "value_std": 13.26,
+    "value_min": 70.2,
+    "value_max": 98.8
+  },
+  "ml_readiness": "NEEDS_IMPUTATION",
+  "quality_tier": "TIER_2_CALIBRATED_SYNTHETIC"
+}

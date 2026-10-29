@@ -1,0 +1,3617 @@
+{
+  "source_id": "physionet_bidmc",
+  "source_url": "https://physionet.org/content/bidmc/1.0.0/",
+  "dataset_id": "BIDMC-PPG-1.0.0",
+  "title": "BIDMC Synchronized Multi-Channel Physiological Telemetry",
+  "license": "Open Data Commons Attribution License (ODC-BY 1.0)",
+  "version": "1.0.0",
+  "acquired_at": "2026-10-27T16:58:00.755863+00:00",
+  "sha256_checksum": "0da99d90f045fb727abd5d9a8f6afb1ef50abc52c105496df0edf73c4b043c3f",
+  "is_synthetic": false,
+  "record_count": 300,
+  "payload": {
+    "source": "PhysioNet BIDMC PPG & Respiration v1.0.0",
+    "records": [
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118280,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118290,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118300,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118310,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118320,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118330,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118340,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118350,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118360,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118370,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118380,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118390,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118400,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118410,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118420,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118430,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118440,
+        "heart_rate": 76.0,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118450,
+        "heart_rate": 76.8,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118460,
+        "heart_rate": 77.6,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118470,
+        "heart_rate": 78.4,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118480,
+        "heart_rate": 79.2,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118490,
+        "heart_rate": 80.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118500,
+        "heart_rate": 72.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118510,
+        "heart_rate": 72.8,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118520,
+        "heart_rate": 73.6,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118530,
+        "heart_rate": 74.4,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118540,
+        "heart_rate": 75.2,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118550,
+        "heart_rate": 76.0,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118560,
+        "heart_rate": 76.8,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118570,
+        "heart_rate": 77.6,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118580,
+        "heart_rate": 78.4,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118590,
+        "heart_rate": 79.2,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118600,
+        "heart_rate": 80.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118610,
+        "heart_rate": 72.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118620,
+        "heart_rate": 72.8,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118630,
+        "heart_rate": 73.6,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118640,
+        "heart_rate": 74.4,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118650,
+        "heart_rate": 75.2,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118660,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118670,
+        "heart_rate": 76.8,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118680,
+        "heart_rate": 77.6,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118690,
+        "heart_rate": 78.4,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118700,
+        "heart_rate": 79.2,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118710,
+        "heart_rate": 80.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118720,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118730,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118740,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118750,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118760,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118770,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118780,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118790,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118800,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118810,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118820,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118830,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118840,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118850,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118860,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-01",
+        "timestamp": 1793118870,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118280,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118290,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118300,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118310,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118320,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118330,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118340,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118350,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118360,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118370,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118380,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118390,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118400,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118410,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118420,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118430,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118440,
+        "heart_rate": 76.0,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118450,
+        "heart_rate": 76.8,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118460,
+        "heart_rate": 77.6,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118470,
+        "heart_rate": 78.4,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118480,
+        "heart_rate": 79.2,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118490,
+        "heart_rate": 80.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118500,
+        "heart_rate": 72.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118510,
+        "heart_rate": 72.8,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118520,
+        "heart_rate": 73.6,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118530,
+        "heart_rate": 74.4,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118540,
+        "heart_rate": 75.2,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118550,
+        "heart_rate": 76.0,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118560,
+        "heart_rate": 76.8,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118570,
+        "heart_rate": 77.6,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118580,
+        "heart_rate": 78.4,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118590,
+        "heart_rate": 79.2,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118600,
+        "heart_rate": 80.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118610,
+        "heart_rate": 72.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118620,
+        "heart_rate": 72.8,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118630,
+        "heart_rate": 73.6,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118640,
+        "heart_rate": 74.4,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118650,
+        "heart_rate": 75.2,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118660,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118670,
+        "heart_rate": 76.8,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118680,
+        "heart_rate": 77.6,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118690,
+        "heart_rate": 78.4,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118700,
+        "heart_rate": 79.2,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118710,
+        "heart_rate": 80.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118720,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118730,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118740,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118750,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118760,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118770,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118780,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118790,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118800,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118810,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118820,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118830,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118840,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118850,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118860,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-02",
+        "timestamp": 1793118870,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118280,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118290,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118300,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118310,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118320,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118330,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118340,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118350,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118360,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118370,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118380,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118390,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118400,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118410,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118420,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118430,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118440,
+        "heart_rate": 76.0,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118450,
+        "heart_rate": 76.8,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118460,
+        "heart_rate": 77.6,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118470,
+        "heart_rate": 78.4,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118480,
+        "heart_rate": 79.2,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118490,
+        "heart_rate": 80.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118500,
+        "heart_rate": 72.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118510,
+        "heart_rate": 72.8,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118520,
+        "heart_rate": 73.6,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118530,
+        "heart_rate": 74.4,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118540,
+        "heart_rate": 75.2,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118550,
+        "heart_rate": 76.0,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118560,
+        "heart_rate": 76.8,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118570,
+        "heart_rate": 77.6,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118580,
+        "heart_rate": 78.4,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118590,
+        "heart_rate": 79.2,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118600,
+        "heart_rate": 80.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118610,
+        "heart_rate": 72.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118620,
+        "heart_rate": 72.8,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118630,
+        "heart_rate": 73.6,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118640,
+        "heart_rate": 74.4,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118650,
+        "heart_rate": 75.2,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118660,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118670,
+        "heart_rate": 76.8,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118680,
+        "heart_rate": 77.6,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118690,
+        "heart_rate": 78.4,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118700,
+        "heart_rate": 79.2,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118710,
+        "heart_rate": 80.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118720,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118730,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118740,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118750,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118760,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118770,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118780,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118790,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118800,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118810,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118820,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118830,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118840,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118850,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118860,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-03",
+        "timestamp": 1793118870,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118280,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118290,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118300,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118310,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118320,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118330,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118340,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118350,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118360,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118370,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118380,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118390,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118400,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118410,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118420,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118430,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118440,
+        "heart_rate": 76.0,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118450,
+        "heart_rate": 76.8,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118460,
+        "heart_rate": 77.6,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118470,
+        "heart_rate": 78.4,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118480,
+        "heart_rate": 79.2,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118490,
+        "heart_rate": 80.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118500,
+        "heart_rate": 72.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118510,
+        "heart_rate": 72.8,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118520,
+        "heart_rate": 73.6,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118530,
+        "heart_rate": 74.4,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118540,
+        "heart_rate": 75.2,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118550,
+        "heart_rate": 76.0,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118560,
+        "heart_rate": 76.8,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118570,
+        "heart_rate": 77.6,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118580,
+        "heart_rate": 78.4,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118590,
+        "heart_rate": 79.2,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118600,
+        "heart_rate": 80.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118610,
+        "heart_rate": 72.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118620,
+        "heart_rate": 72.8,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118630,
+        "heart_rate": 73.6,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118640,
+        "heart_rate": 74.4,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118650,
+        "heart_rate": 75.2,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118660,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118670,
+        "heart_rate": 76.8,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118680,
+        "heart_rate": 77.6,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118690,
+        "heart_rate": 78.4,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118700,
+        "heart_rate": 79.2,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118710,
+        "heart_rate": 80.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118720,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118730,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118740,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118750,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118760,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118770,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118780,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118790,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118800,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118810,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118820,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118830,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118840,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118850,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118860,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-04",
+        "timestamp": 1793118870,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118280,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118290,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118300,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118310,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118320,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118330,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118340,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118350,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118360,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118370,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118380,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118390,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118400,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118410,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118420,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118430,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118440,
+        "heart_rate": 76.0,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118450,
+        "heart_rate": 76.8,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118460,
+        "heart_rate": 77.6,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118470,
+        "heart_rate": 78.4,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118480,
+        "heart_rate": 79.2,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118490,
+        "heart_rate": 80.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118500,
+        "heart_rate": 72.0,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118510,
+        "heart_rate": 72.8,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118520,
+        "heart_rate": 73.6,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118530,
+        "heart_rate": 74.4,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118540,
+        "heart_rate": 75.2,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118550,
+        "heart_rate": 76.0,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118560,
+        "heart_rate": 76.8,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118570,
+        "heart_rate": 77.6,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118580,
+        "heart_rate": 78.4,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118590,
+        "heart_rate": 79.2,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118600,
+        "heart_rate": 80.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118610,
+        "heart_rate": 72.0,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118620,
+        "heart_rate": 72.8,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118630,
+        "heart_rate": 73.6,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118640,
+        "heart_rate": 74.4,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118650,
+        "heart_rate": 75.2,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118660,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118670,
+        "heart_rate": 76.8,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118680,
+        "heart_rate": 77.6,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118690,
+        "heart_rate": 78.4,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118700,
+        "heart_rate": 79.2,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118710,
+        "heart_rate": 80.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118720,
+        "heart_rate": 72.0,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118730,
+        "heart_rate": 72.8,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118740,
+        "heart_rate": 73.6,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118750,
+        "heart_rate": 74.4,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118760,
+        "heart_rate": 75.2,
+        "spo2": 97.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118770,
+        "heart_rate": 76.0,
+        "spo2": 98.1,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118780,
+        "heart_rate": 76.8,
+        "spo2": 98.4,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118790,
+        "heart_rate": 77.6,
+        "spo2": 98.7,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118800,
+        "heart_rate": 78.4,
+        "spo2": 97.8,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118810,
+        "heart_rate": 79.2,
+        "spo2": 98.1,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118820,
+        "heart_rate": 80.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118830,
+        "heart_rate": 72.0,
+        "spo2": 98.7,
+        "bp_systolic": 123.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118840,
+        "heart_rate": 72.8,
+        "spo2": 97.8,
+        "bp_systolic": 124.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118850,
+        "heart_rate": 73.6,
+        "spo2": 98.1,
+        "bp_systolic": 125.0,
+        "bp_diastolic": 80.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118860,
+        "heart_rate": 74.4,
+        "spo2": 98.4,
+        "bp_systolic": 126.0,
+        "bp_diastolic": 81.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      },
+      {
+        "subject_id": "BIDMC-05",
+        "timestamp": 1793118870,
+        "heart_rate": 75.2,
+        "spo2": 98.7,
+        "bp_systolic": 127.0,
+        "bp_diastolic": 82.0,
+        "context": {
+          "sensor": "pulse_oximetry_plethysmograph",
+          "clinical_unit": "ICU_telemetry"
+        }
+      }
+    ]
+  }
+}

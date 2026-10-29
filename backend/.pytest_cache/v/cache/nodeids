@@ -1,0 +1,6 @@
+[
+  "tests/test_api.py::test_health_check",
+  "tests/test_api.py::test_login_demo_users",
+  "tests/test_dataset_pipeline.py::test_dataset_sources_and_acquisition_pipeline",
+  "tests/test_sync.py::test_batch_sync_and_idempotency"
+]

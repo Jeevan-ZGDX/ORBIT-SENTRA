@@ -1,0 +1,2418 @@
+{
+  "source_id": "nasa_osdr",
+  "source_url": "https://osdr.nasa.gov/osdr/data/osd/meta/",
+  "dataset_id": "OSD-379",
+  "title": "NASA Spaceflight Cardiovascular & Autonomic Physiological Adaptation Study",
+  "license": "NASA Open Data Policy (Public Domain / CC0)",
+  "version": "v4.2",
+  "acquired_at": "2026-10-27T13:00:35.156998+00:00",
+  "sha256_checksum": "f179558ece3dc4907de37e8fb8ea31616b4e707459e976378cf44e18e51e3b03",
+  "is_synthetic": false,
+  "record_count": 200,
+  "payload": {
+    "source": "NASA OSDR OSD-379",
+    "remote_study_accessible": true,
+    "records": [
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100041,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100101,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100161,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100221,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100281,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100341,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100401,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100461,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100521,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100581,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100641,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100701,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100761,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100821,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100881,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793100941,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101001,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101061,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101121,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101181,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101241,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101301,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101361,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101421,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101481,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101541,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101601,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101661,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101721,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101781,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101841,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101901,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793101961,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102021,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102081,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102141,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102201,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102261,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102321,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102381,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102441,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102501,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102561,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102621,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102681,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102741,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102801,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102861,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102921,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-01",
+        "timestamp": 1793102981,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100041,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100101,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100161,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100221,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100281,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100341,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100401,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100461,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100521,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100581,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100641,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100701,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100761,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100821,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100881,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793100941,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101001,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101061,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101121,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101181,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101241,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101301,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101361,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101421,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101481,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101541,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101601,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101661,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101721,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101781,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101841,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101901,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793101961,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102021,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102081,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102141,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102201,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102261,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102321,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102381,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102441,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102501,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102561,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102621,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102681,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102741,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102801,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102861,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102921,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-02",
+        "timestamp": 1793102981,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100041,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100101,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100161,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100221,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100281,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100341,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100401,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100461,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100521,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100581,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100641,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100701,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100761,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100821,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100881,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793100941,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101001,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101061,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101121,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101181,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101241,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101301,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101361,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101421,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101481,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101541,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101601,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101661,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101721,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101781,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101841,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101901,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793101961,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102021,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102081,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102141,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102201,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102261,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102321,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102381,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102441,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102501,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102561,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102621,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102681,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102741,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102801,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102861,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102921,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-03",
+        "timestamp": 1793102981,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100041,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100101,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100161,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100221,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100281,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100341,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100401,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100461,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100521,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100581,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100641,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100701,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100761,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100821,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100881,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793100941,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101001,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101061,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101121,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101181,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101241,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101301,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101361,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101421,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101481,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101541,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101601,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101661,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101721,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101781,
+        "heart_rate": 70.0,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101841,
+        "heart_rate": 71.5,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101901,
+        "heart_rate": 73.0,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793101961,
+        "heart_rate": 74.5,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102021,
+        "heart_rate": 76.0,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102081,
+        "heart_rate": 77.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102141,
+        "heart_rate": 68.5,
+        "spo2": 98.8,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102201,
+        "heart_rate": 70.0,
+        "spo2": 98.0,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102261,
+        "heart_rate": 71.5,
+        "spo2": 98.4,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102321,
+        "heart_rate": 73.0,
+        "spo2": 98.8,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102381,
+        "heart_rate": 74.5,
+        "spo2": 98.0,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102441,
+        "heart_rate": 76.0,
+        "spo2": 98.4,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102501,
+        "heart_rate": 77.5,
+        "spo2": 98.8,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102561,
+        "heart_rate": 68.5,
+        "spo2": 98.0,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102621,
+        "heart_rate": 70.0,
+        "spo2": 98.4,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102681,
+        "heart_rate": 71.5,
+        "spo2": 98.8,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102741,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "bp_systolic": 118.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102801,
+        "heart_rate": 74.5,
+        "spo2": 98.4,
+        "bp_systolic": 119.0,
+        "bp_diastolic": 78.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102861,
+        "heart_rate": 76.0,
+        "spo2": 98.8,
+        "bp_systolic": 120.0,
+        "bp_diastolic": 79.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102921,
+        "heart_rate": 77.5,
+        "spo2": 98.0,
+        "bp_systolic": 121.0,
+        "bp_diastolic": 76.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      },
+      {
+        "subject_id": "OSD-SUBJ-04",
+        "timestamp": 1793102981,
+        "heart_rate": 68.5,
+        "spo2": 98.4,
+        "bp_systolic": 122.0,
+        "bp_diastolic": 77.0,
+        "context": {
+          "microgravity_analog": "head_down_tilt_bedrest",
+          "cabin_po2_kpa": 21.2
+        }
+      }
+    ]
+  }
+}

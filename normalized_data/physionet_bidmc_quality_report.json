@@ -1,0 +1,21 @@
+{
+  "source_id": "physionet_bidmc",
+  "evaluated_at": "2026-10-27T22:28:00.801634",
+  "sample_count": 900,
+  "subject_count": 5,
+  "measurements_breakdown": {
+    "heart_rate": 300,
+    "spo2": 300,
+    "blood_pressure": 300
+  },
+  "missing_values_count": 1500,
+  "missing_rate_pct": 15.15,
+  "numerical_summary": {
+    "value_mean": 87.03,
+    "value_std": 11.38,
+    "value_min": 72.0,
+    "value_max": 98.7
+  },
+  "ml_readiness": "NEEDS_IMPUTATION",
+  "quality_tier": "TIER_2_CALIBRATED_SYNTHETIC"
+}

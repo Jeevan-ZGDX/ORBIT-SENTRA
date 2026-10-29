@@ -1,0 +1,20 @@
+{
+  "source_id": "synthetic_simulator",
+  "evaluated_at": "2026-10-27T18:55:39.180641",
+  "sample_count": 80,
+  "subject_count": 1,
+  "measurements_breakdown": {
+    "heart_rate": 40,
+    "spo2": 40
+  },
+  "missing_values_count": 160,
+  "missing_rate_pct": 18.18,
+  "numerical_summary": {
+    "value_mean": 85.99,
+    "value_std": 12.6,
+    "value_min": 72.0,
+    "value_max": 99.0
+  },
+  "ml_readiness": "NEEDS_IMPUTATION",
+  "quality_tier": "TIER_2_CALIBRATED_SYNTHETIC"
+}

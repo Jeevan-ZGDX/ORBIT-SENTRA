@@ -1,0 +1,317 @@
+{
+  "source_id": "wearable_api",
+  "source_url": "https://api.wearable-hub.nasa.gov/v2/telemetry",
+  "dataset_id": "WEARABLE-LIVE-OAUTH2",
+  "title": "Live Authenticated Wearable Telemetry Push Feed",
+  "license": "Mission Payload Data Agreement",
+  "version": "2.1.0",
+  "acquired_at": "2026-10-27T13:25:37.674770+00:00",
+  "sha256_checksum": "2091dbea895b6846fc768cd538de084200c73f41fc0d091b5310273e322fc57d",
+  "is_synthetic": false,
+  "record_count": 30,
+  "payload": {
+    "source": "Authorized Wearable Live Push API",
+    "records": [
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107537,
+        "heart_rate": 70.2,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107532,
+        "heart_rate": 71.3,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107527,
+        "heart_rate": 72.4,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107522,
+        "heart_rate": 73.5,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107517,
+        "heart_rate": 74.6,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107512,
+        "heart_rate": 70.2,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107507,
+        "heart_rate": 71.3,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107502,
+        "heart_rate": 72.4,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107497,
+        "heart_rate": 73.5,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107492,
+        "heart_rate": 74.6,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107487,
+        "heart_rate": 70.2,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107482,
+        "heart_rate": 71.3,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107477,
+        "heart_rate": 72.4,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107472,
+        "heart_rate": 73.5,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107467,
+        "heart_rate": 74.6,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107462,
+        "heart_rate": 70.2,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107457,
+        "heart_rate": 71.3,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107452,
+        "heart_rate": 72.4,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107447,
+        "heart_rate": 73.5,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107442,
+        "heart_rate": 74.6,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107437,
+        "heart_rate": 70.2,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107432,
+        "heart_rate": 71.3,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107427,
+        "heart_rate": 72.4,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107422,
+        "heart_rate": 73.5,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107417,
+        "heart_rate": 74.6,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107412,
+        "heart_rate": 70.2,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107407,
+        "heart_rate": 71.3,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107402,
+        "heart_rate": 72.4,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107397,
+        "heart_rate": 73.5,
+        "spo2": 98.4,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      },
+      {
+        "subject_id": "ASTRONAUT-LIVE-CDR",
+        "timestamp": 1793107392,
+        "heart_rate": 74.6,
+        "spo2": 98.8,
+        "context": {
+          "device": "BioMonitor_SmartVest_Ch1",
+          "battery_pct": 94
+        }
+      }
+    ]
+  }
+}

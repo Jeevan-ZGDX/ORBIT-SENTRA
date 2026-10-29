@@ -1,0 +1,21 @@
+{
+  "source_id": "nasa_osdr",
+  "evaluated_at": "2026-10-27T22:28:00.675992",
+  "sample_count": 600,
+  "subject_count": 4,
+  "measurements_breakdown": {
+    "heart_rate": 200,
+    "spo2": 200,
+    "blood_pressure": 200
+  },
+  "missing_values_count": 1000,
+  "missing_rate_pct": 15.15,
+  "numerical_summary": {
+    "value_mean": 85.65,
+    "value_std": 12.94,
+    "value_min": 68.5,
+    "value_max": 98.8
+  },
+  "ml_readiness": "NEEDS_IMPUTATION",
+  "quality_tier": "TIER_2_CALIBRATED_SYNTHETIC"
+}

@@ -1,0 +1,418 @@
+{
+  "source_id": "synthetic_simulator",
+  "source_url": "internal://scripts/telemetry_simulator.py",
+  "dataset_id": "ASTRA-SYNTH-2026",
+  "title": "Calibrated Synthetic Spaceflight Telemetry (Clearly Labeled)",
+  "license": "MIT License / Open Challenge",
+  "version": "2.0.0",
+  "acquired_at": "2026-10-27T13:25:39.162663+00:00",
+  "sha256_checksum": "7d17503717270be823a79b5811b4b7b0e3ce298f8e24d8960464916916d65a69",
+  "is_synthetic": true,
+  "record_count": 40,
+  "payload": {
+    "source": "ASTRA-Guard Calibrated Telemetry Simulator",
+    "is_synthetic": true,
+    "records": [
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107539,
+        "heart_rate": 72.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107479,
+        "heart_rate": 73.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107419,
+        "heart_rate": 74.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107359,
+        "heart_rate": 75.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107299,
+        "heart_rate": 72.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107239,
+        "heart_rate": 73.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107179,
+        "heart_rate": 74.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107119,
+        "heart_rate": 75.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793107059,
+        "heart_rate": 72.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106999,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106939,
+        "heart_rate": 74.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106879,
+        "heart_rate": 75.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106819,
+        "heart_rate": 72.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106759,
+        "heart_rate": 73.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106699,
+        "heart_rate": 74.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106639,
+        "heart_rate": 75.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106579,
+        "heart_rate": 72.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106519,
+        "heart_rate": 73.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106459,
+        "heart_rate": 74.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106399,
+        "heart_rate": 75.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106339,
+        "heart_rate": 72.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106279,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106219,
+        "heart_rate": 74.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106159,
+        "heart_rate": 75.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106099,
+        "heart_rate": 72.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793106039,
+        "heart_rate": 73.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105979,
+        "heart_rate": 74.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105919,
+        "heart_rate": 75.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105859,
+        "heart_rate": 72.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105799,
+        "heart_rate": 73.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105739,
+        "heart_rate": 74.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105679,
+        "heart_rate": 75.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105619,
+        "heart_rate": 72.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105559,
+        "heart_rate": 73.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105499,
+        "heart_rate": 74.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105439,
+        "heart_rate": 75.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105379,
+        "heart_rate": 72.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105319,
+        "heart_rate": 73.0,
+        "spo2": 98.5,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105259,
+        "heart_rate": 74.0,
+        "spo2": 99.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      },
+      {
+        "subject_id": "SYNTH-TEST-BENCH",
+        "timestamp": 1793105199,
+        "heart_rate": 75.0,
+        "spo2": 98.0,
+        "is_synthetic": true,
+        "context": {
+          "generator": "scripts/telemetry_simulator.py"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "model_name": "AstraNet-LightWeight-v2.4",
+  "algorithm": "logistic_calibrated",
+  "trained_at": "2026-10-27T16:59:18Z",
+  "total_samples": 4476,
+  "total_subjects": 24,
+  "feature_names": [
+    "heart_rate",
+    "spo2",
+    "bp_systolic",
+    "bp_diastolic",
+    "pulse_pressure",
+    "mean_arterial_pressure",
+    "hr_spo2_ratio",
+    "sleep_duration_hrs",
+    "sleep_efficiency",
+    "fatigue_score",
+    "compound_hypoxia_index",
+    "snr_quality"
+  ],
+  "target_classes": [
+    "Nominal",
+    "Warning",
+    "Critical"
+  ],
+  "scaler": {
+    "mean": [
+      77.58937503484022,
+      96.91456756898609,
+      122.90726399187322,
+      79.59897189954224,
+      43.30829210596707,
+      94.03506931137889,
+      0.8039081693760938,
+      6.963215834493612,
+      84.82231123602955,
+      2.8522051144541107,
+      1.1635813819139638,
+      0.981390946166019
+    ],
+    "scale": [
+      13.668593649780156,
+      3.512126013407008,
+      9.73308715027613,
+      6.672685303671394,
+      3.8507795285175552,
+      7.613513790760221,
+      0.1688559146937363,
+      1.2596712602651057,
+      7.978285497460674,
+      1.944306232402693,
+      3.713654964599442,
+      0.019422815004310378
+    ]
+  },
+  "metrics": {
+    "accuracy": 100.0,
+    "f1_score": 1.0,
+    "precision": 100.0,
+    "recall": 100.0,
+    "latency_ms": 0.338,
+    "model_size_kb": 0.8,
+    "onnx_verified": true
+  },
+  "feature_importances": {
+    "heart_rate": 0.06420096009969711,
+    "spo2": 0.1073603555560112,
+    "bp_systolic": 0.015992335975170135,
+    "bp_diastolic": 0.02297883667051792,
+    "pulse_pressure": 0.008858440443873405,
+    "mean_arterial_pressure": 0.020241037011146545,
+    "hr_spo2_ratio": 0.07150818407535553,
+    "sleep_duration_hrs": 0.13671617209911346,
+    "sleep_efficiency": 0.13032527267932892,
+    "fatigue_score": 0.14928755164146423,
+    "compound_hypoxia_index": 0.17794269323349,
+    "snr_quality": 0.09458816051483154
+  },
+  "confusion_matrix": [
+    [
+      3726,
+      0,
+      0
+    ],
+    [
+      0,
+      450,
+      0
+    ],
+    [
+      0,
+      0,
+      300
+    ]
+  ]
+}
