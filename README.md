@@ -1,13 +1,13 @@
-# ASTRA-Guard: AI-Powered Astronaut Health Monitoring & Early Warning System
+# HILO: AI-Powered Astronaut Health Monitoring & Early Warning System
 **NASA Space Apps Challenge 2026** — *Create Health Monitoring Software for Astronauts on Space Missions*
 
-ASTRA-Guard is an offline-first astronaut health monitoring and early warning application designed for deep-space missions (such as Mars transit). It unifies longitudinal physiological indicators, personalized statistical anomaly detection, explainable alerts, and resilient offline synchronization.
+HILO is an offline-first astronaut health monitoring and early warning application designed for deep-space missions (such as Mars transit). It unifies longitudinal physiological indicators, personalized statistical anomaly detection, explainable alerts, and resilient offline synchronization.
 
 ---
 
 ## 🚀 Key Innovations
 
-1. **Personalized Baseline & Anomaly Detection:** Rather than relying solely on generalized static thresholds, ASTRA-Guard calculates astronaut-specific baseline distributions using **Median Absolute Deviation (MAD)** and **EWMA** rolling trends.
+1. **Personalized Baseline & Anomaly Detection:** Rather than relying solely on generalized static thresholds, HILO calculates astronaut-specific baseline distributions using **Median Absolute Deviation (MAD)** and **EWMA** rolling trends.
 2. **Multi-Signal Context-Aware Analysis:** Correlates physiological observations (Heart Rate, Blood Pressure, SpO₂) with behavioral indicators (Sleep Duration, Sleep Efficiency, Fatigue Score) to detect compound anomalies like acute hypoxia under cumulative sleep debt.
 3. **Data Quality Awareness:** Distinguishes sensor faults (implausible spikes, frozen/stale telemetry, packet dropouts) from real physiological crises.
 4. **Offline-First Continuity:** Essential monitoring, local analytics, and alert explanations execute entirely client-side inside the PWA using **Dexie.js (IndexedDB)** and a pure TypeScript inference engine.
