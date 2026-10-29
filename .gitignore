@@ -39,9 +39,7 @@ htmlcov/
 # Node.js / Next.js
 # ------------------------------
 node_modules/
-frontend/node_modules/
 .next/
-frontend/.next/
 out/
 build/
 dist/
@@ -68,22 +66,6 @@ logs/
 *.pid
 *.seed
 *.pid.lock
-
-# ------------------------------
-# Data exports / generated datasets
-# Keep folder structure and documentation, but do not commit local data.
-# Explicitly re-include curated, small sample files when needed.
-# ------------------------------
-raw_data/*
-!raw_data/.gitkeep
-normalized_data/*
-!normalized_data/.gitkeep
-*.csv
-*.parquet
-*.feather
-*.pkl
-*.pickle
-*.joblib
 
 # ------------------------------
 # Docker / local services
@@ -115,8 +97,7 @@ Desktop.ini
 # ------------------------------
 # Local-only docs and generated artifacts
 # ------------------------------
-# Keep README.md, PRD files, schema.sql, and documentation tracked.
-# Ignore only generated local outputs if needed:
+# Keep README.md, PRD files, SQL schema, and curated datasets tracked.
 *.tmp
 *.bak
 *.orig
