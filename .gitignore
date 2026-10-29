@@ -1,8 +1,122 @@
-architecture-diagram.png
-prd file.md
-schema.md
-writing-block.md
-backend/venv/
-docs/
-frontend/node_modules
+# ------------------------------
+# Environment variables and secrets
+# ------------------------------
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+secrets/
+.secret/
 
+# ------------------------------
+# Python / FastAPI
+# ------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+backend/venv/
+backend/.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+.pyre/
+.dmypy.json
+.pytype/
+
+# ------------------------------
+# Node.js / Next.js
+# ------------------------------
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+build/
+dist/
+coverage/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.tsbuildinfo
+
+# Keep package lockfiles tracked for reproducible installs.
+!package-lock.json
+!yarn.lock
+!pnpm-lock.yaml
+
+# ------------------------------
+# Local databases and runtime files
+# ------------------------------
+*.sqlite
+*.sqlite3
+*.db
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# ------------------------------
+# Data exports / generated datasets
+# Keep folder structure and documentation, but do not commit local data.
+# Explicitly re-include curated, small sample files when needed.
+# ------------------------------
+raw_data/*
+!raw_data/.gitkeep
+normalized_data/*
+!normalized_data/.gitkeep
+*.csv
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.joblib
+
+# ------------------------------
+# Docker / local services
+# ------------------------------
+# Keep docker-compose.yml and Dockerfiles tracked.
+.docker/
+docker-data/
+postgres-data/
+pgdata/
+*.dump
+*.backup
+
+# ------------------------------
+# Editors and operating systems
+# ------------------------------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ------------------------------
+# Local-only docs and generated artifacts
+# ------------------------------
+# Keep README.md, PRD files, schema.sql, and documentation tracked.
+# Ignore only generated local outputs if needed:
+*.tmp
+*.bak
+*.orig
